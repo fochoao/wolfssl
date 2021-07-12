@@ -1,0 +1,2 @@
+^D:\WOLFSSL-4.7.0\WOLFCRYPT\SRC\AES_ASM.ASM
+ml64.exe /c /Zi /Fo"D:\wolfssl-4.7.0\x64\Release\aes_asm.obj" wolfcrypt\src\aes_asm.asm
